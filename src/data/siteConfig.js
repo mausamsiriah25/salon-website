@@ -9,7 +9,7 @@ export const site = {
   phone: '9822209911',            // e.g. '+91 98765 43210'  (empty = placeholder shown)
   // International format, digits only, no "+" or spaces. Example India: '919876543210'. Empty = WhatsApp disabled.
   whatsapp: '+91 9822209911',
-  social: { instagram: 'https://www.instagram.com/m.ausamm', facebook: '' }, // full profile URLs; empty = hidden
+  social: { instagram: 'https://www.instagram.com/m.ausamm', facebook: 'https://www.facebook.com/m.ausamm' }, // full profile URLs; empty = hidden
   // DEMO coordinates (central Nagpur). Replace with the salon's real latitude/longitude.
   map: { lat: 21.162499383031996, lng: 79.07617536399462, zoom: 15 }, 
 }
